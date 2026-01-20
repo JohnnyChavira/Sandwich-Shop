@@ -1,0 +1,19 @@
+======= ORDER SUMMARY =======
+Order Time: 2025-05-30T13:04:22.585861100
+
+Sandwich #1:
+EIGHT_INCH WHEAT (Toasted)
+Toppings:
+- SALAMI x1
+- PICKLES x1
+- MUSHROOMS x1
+Sauces:
+- THOUSAND_ISLANDS x1
+
+
+Drinks:
+Drink #1: LARGE Pepsi drink ($3.00)
+Chips
+Chips #1: 1x FRITOS chips ($1.50)
+
+Total Price: $13.50
